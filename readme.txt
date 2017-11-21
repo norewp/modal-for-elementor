@@ -12,7 +12,7 @@ Add a modal widget for Elementor Page Builder.
 
 == Description ==
 
-NOTE: Modal For Elementor is now PopBox For Elementor and develoment will now be continued by Zulfikar Nore of NoewWP :) 
+NOTE: Modal For Elementor is now PopBox For Elementor and develoment will now be continued by Zulfikar Nore of NoreWP :) 
 
 PopBox for Elementor allows the creation of beautiful templates with Elementor Page Builder for use with the included Popbox overlay script.
 
