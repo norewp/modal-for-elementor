@@ -1,6 +1,6 @@
 === PopBox For Elementor ===
-Contributors: LuisBeonline, bashari
-Donate link: https://paypal.me/LuisFMarques/5
+Contributors: norewp, LuisBeonline, bashari
+Donate link: https://www.paypal.me/NoreMarketing/5
 Tags: PopBox, Modal, Popup, Elementor
 Requires at least: 4.4
 Tested up to: 4.9
