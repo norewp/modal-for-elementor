@@ -2,7 +2,7 @@
 /**
 * Plugin Name: PopBox For Elementor
 * Description: Create content-rich popboxes for your site using the power of Elementor Page Builder
-* Version: 1.0.0
+* Version: 1.0.1
 * Author: Zulfikar Nore
 * Author URI: https://designsbynore.com/
 * Plugin URI: https://designsbynore.com/popups/popbox/

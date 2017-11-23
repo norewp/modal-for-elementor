@@ -4,7 +4,7 @@ Donate link: https://www.paypal.me/NoreMarketing/5
 Tags: PopBox, Modal, Popup, Elementor
 Requires at least: 4.4
 Tested up to: 4.9
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -32,6 +32,9 @@ Brief video on setup (Sorry for the lack of sound): https://youtu.be/M3B9aLLTXKY
 Go to settings > permalinks and click save. (you need to do that in order to register the popup post types.)
 
 == Changelog ==
+= 1.0.1 =
+* FIXED: Bug with non Elementor authored content not showing in the PopBox - Fixes: https://wordpress.org/support/topic/not-working-video/
+
 = 1.0.0 =
 * FIXED: Issue when video contained in a popup did not stop playing after the closing - See topic: https://wordpress.org/support/topic/videos-in-popups/
 * Code tidyup

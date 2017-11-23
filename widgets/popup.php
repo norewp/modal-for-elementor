@@ -620,8 +620,13 @@ class ElementorModal extends Widget_Base {
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 					<div class="modal-body">
 						<?php
-							$frontend = new Frontend;
-							echo $frontend->get_builder_content($selectedPopup->post->ID, true);
+							$elementor  = get_post_meta( $selectedPopup->post->ID, '_elementor_edit_mode', true );							
+							if ( $elementor ) {
+								$frontend = new Frontend;
+								echo $frontend->get_builder_content( $selectedPopup->post->ID, true );
+							} else {
+								the_content();
+							}
 						?>
 					</div>
 				</div>
